@@ -1,0 +1,1 @@
+{"level":"error","message":"An error occurred: ProtocolError: Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50","service":"instagram downloader","timestamp":"2023-10-14 19:32:38"}

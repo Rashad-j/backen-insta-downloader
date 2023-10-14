@@ -1,0 +1,23 @@
+{"level":"info","message":"App listening on port 3000","service":"instagram downloader"}
+{"level":"info","message":"Starting the data retrieval process","service":"instagram downloader"}
+{"level":"info","message":"Data retrieval completed successfully","service":"instagram downloader"}
+{"level":"info","message":"Starting the data retrieval process","service":"instagram downloader"}
+{"level":"info","message":"Data retrieval completed successfully","service":"instagram downloader"}
+{"level":"info","message":"App listening on port 3000","service":"instagram downloader"}
+{"level":"info","message":"Starting the data retrieval process","service":"instagram downloader"}
+{"level":"info","message":"Data retrieval completed successfully","service":"instagram downloader"}
+{"level":"info","message":"App listening on port 3000","service":"instagram downloader"}
+{"level":"info","message":"Starting the data retrieval process","service":"instagram downloader"}
+{"level":"info","message":"Data retrieval completed successfully","service":"instagram downloader"}
+{"level":"info","message":"Request finished successfully","service":"instagram downloader"}
+{"level":"info","message":"App listening on port 3000","service":"instagram downloader","timestamp":"2023-10-14 19:29:39"}
+{"level":"info","message":"Starting the data retrieval process","service":"instagram downloader","timestamp":"2023-10-14 19:29:46"}
+{"level":"info","message":"Data retrieval completed successfully","service":"instagram downloader","timestamp":"2023-10-14 19:29:56"}
+{"level":"info","message":"Request finished successfully","service":"instagram downloader","timestamp":"2023-10-14 19:29:56"}
+{"level":"info","message":"App listening on port 3000","service":"instagram downloader","timestamp":"2023-10-14 19:32:22"}
+{"level":"info","message":"Starting the data retrieval process","service":"instagram downloader","timestamp":"2023-10-14 19:32:37"}
+{"level":"error","message":"An error occurred: ProtocolError: Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50","service":"instagram downloader","timestamp":"2023-10-14 19:32:38"}
+{"level":"info","message":"App listening on port 3000","service":"instagram downloader","timestamp":"2023-10-14 19:33:44"}
+{"level":"info","message":"Starting the data retrieval process","service":"instagram downloader","timestamp":"2023-10-14 19:33:49"}
+{"level":"info","message":"Data retrieval completed successfully","service":"instagram downloader","timestamp":"2023-10-14 19:33:58"}
+{"level":"info","message":"Request finished successfully","service":"instagram downloader","timestamp":"2023-10-14 19:33:58"}
