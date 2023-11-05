@@ -4,6 +4,16 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const puppeteer = require('puppeteer');
 const logger = require('./logger'); // Import the logger module
+const cors = require('cors'); // Require the 'cors' middleware
+
+// Enable CORS for all routes
+app.use(cors());
+
+app.use(cors({
+    origin: 'http://localhost:3000', // Allow requests from this specific origin
+    methods: 'GET', // Allow only GET requests
+    allowedHeaders: 'Content-Type',
+}));
 
 const app = express();
 const port = process.env.PORT || 3000;
@@ -31,7 +41,6 @@ app.get('/fetch-data', async (req, res) => {
 
         // Your Puppeteer code to capture cookies here
         await page.goto(baseUrl);
-        // ... (rest of your Puppeteer code to capture cookies)
 
         // Capture all cookies
         const allCookies = await page.cookies();
